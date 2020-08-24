@@ -1,0 +1,432 @@
+ELECTRONICS
+TELEVISION
+samsung CU78HU9000R curved full hd tv  product costs   Rs.96,000 
+samsung CU48H6800AR curved full hd tv  product costs   Rs.1,20,000
+samsung CU55HU7200R curved full hd tv  product costs   Rs.1,59,650
+samsung CU85HU8500R curved full hd tv  product costs   Rs.2,29,650
+samsung CU8000 curved full hd tv       product costs   Rs.6,29,900
+sony CUSD4445A curved full hd tv       product costs   Rs.85,000
+sony CUSD458LK curved full hd tv       product costs   Rs.1,56,000
+sony CUSD6974M curved full hd tv       product costs   Rs.2,69,000
+sony CUSD569SE curved full hd tv       product costs   Rs.4,98,000
+sony CUSD1080P curved full hd tv       product costs   Rs.5,10,000
+sony CUSD720PI curved full hd tv       product costs   Rs.6,32,000
+ LG CU850D curved full hd tv           product costs   Rs.86,000
+ LG CU250M curved full hd tv           product costs   Rs.2,26,980
+ LG CU100C  curved full hd tv           product costs   Rs.8,50,000
+ Toshiba TB5888V curved full hd tv      product costs   Rs.65,000
+ Toshiba TB5666V curved full hd tv      product costs   Rs.2,30,000
+ Toshiba TB5777V curved full hd tv      product costs   Rs.6,32,000
+samsung LE40H4250AR full hd led tv      product costs   Rs.29,000
+samsung LE48H4250AR full hd led tv      product costs   Rs.32,000
+samsung LE32H5570AU full hd led tv      product costs   Rs.48,000
+samsung LE48H5570AU full hd led tv      product costs   Rs.69,000
+samsung LE40H5570AU full hd led tv      product costs   Rs.72,000
+samsung LE31H5570AU full hd led tv      product costs   Rs.84,000
+sony LES459PDA full hd led tv           product costs   Rs.23,000
+sony LES5897FD full hd led tv           product costs   Rs.34,000
+sony LES1080X7 full hd led tv           product costs   Rs.45,000
+sony LES720Z45 full hd led tv           product costs   Rs.60,000
+sony LES120Z56 full hd led tv           product costs   Rs.68,000
+sony LES520Z29 full hd led tv           product costs   Rs.72,000
+LG  LM890 full hd led tv                product costs   Rs.23,000
+LG  LM1080 full hd led tv               product costs   Rs.32,000
+LG  LM475 full hd led tv         	product costs   Rs.34,560
+Toshiba  TB1080L full hd led tv  	product costs   Rs.30,299
+Toshiba  TB1080K full hd led tv  	product costs   Rs.50,590
+Toshiba  TB1080P full hd led tv  	product costs   Rs.80,250
+ samsung LC1080M300H full hd lcd tv  	product costs   Rs.10,000
+ samsung LC1080M201H full hd lcd tv  	product costs   Rs.12,000
+ samsung LC1080P720H full hd lcd tv  	product costs   Rs.15,000
+ samsung LC1080R458L full hd lcd tv  	product costs   Rs.22,000
+ samsung LC1080A879K full hd lcd tv  	product costs   Rs.30,000
+ samsung LC1080O222Z full hd lcd tv  	product costs   Rs.59,000
+sony LCS500N full hd lcd tv  		product costs   Rs.25,000
+sony LCS650N full hd lcd tv  		product costs   Rs.29,000
+sony LCS320N full hd lcd tv  		product costs   Rs.35,000
+sony LCS510N full hd lcd tv  		product costs   Rs.38,000
+sony LCS592N full hd lcd tv  		product costs   Rs.40,000
+sony LCS998N full hd lcd tv  		product costs   Rs.44,000
+LG LCDG40 full hd lcd tv         	product costs   Rs.13,200
+LG LCDG50 full hd lcd tv         	product costs   Rs.15,500
+LG LCDG60  full hd lcd tv        	product costs   Rs.25,900
+Toshiba TBLCD986 full hd lcd tv  	product costs   Rs.15,200
+Toshiba TBLCD756 full hd lcd tv  	product costs   Rs.20,550
+Toshiba TBLCD210 full hd lcd tv  	product costs   Rs.32,900
+MOBILE PHONES
+Samsung galaxy edge E7000         product costs   Rs.80,000
+Samsung galaxy note N100          product costs   Rs.10,000
+Samsung galaxy note 2 N200        product costs   Rs.20,000
+Samsung galaxy note 3 N300        product costs   Rs.40,000
+Samsung galaxy note 4 N400        product costs   Rs.70,000
+Samsung galaxy s1 GS100           product costs   Rs.1,000
+Samsung galaxy s2 GS200           product costs   Rs.5,000
+Samsung galaxy s3 GS300           product costs   Rs.15,000
+Samsung galaxy s4 GS400           product costs   Rs.28,000
+Samsung galaxy s5 GS500           product costs   Rs.35,000
+Samsung galaxy grand GG100        product costs   Rs.15,000
+Samsung galaxy grand 2 GG200      product costs   Rs.20,000
+Samsung galaxy s duos GSD100      product costs   Rs.3,000
+Samsung galaxy star GST200        product costs   Rs.10,000
+Samsung galaxy star duos GSTD200  product costs   Rs.12,000
+Samsung galaxy ace GA100          product costs   Rs.5,000
+Samsung galaxy ace duos GAD100    product costs   Rs.8,000
+iphone 4 IP400   		  product costs   Rs.20,000
+iphone 4s IP400S 		  product costs   Rs.32,000
+iphone 5 IP500   		  product costs   Rs.35,000
+iphone 5s IP500S 		  product costs   Rs.40,000
+iphone 6 IP600                    product costs   Rs.50,000
+nokia lumia NL1020 		  product costs   Rs.60,000
+nokia lumia NL1520                product costs   Rs.50,000
+nokia lumia NL1930 		  product costs   Rs.70,000
+nokia lumia NL930 		  product costs   Rs.20,000
+nokia lumia NL680  		  product costs   Rs.15,000
+nokia lumia NL450  		  product costs   Rs.12,000
+nexus 4 D500                	  product costs   Rs.5,000
+nexus 5 F750                	  product costs   Rs.10,000
+nexus 6 P900                	  product costs   Rs.20,000
+sony xperia z2 XP200        	  product costs   Rs.32,000
+sony xperia z2 ultra XP500 	  product costs   Rs.50,000
+sony xperia M XP100         	  product costs   Rs.41,000
+OTHER ELECTRONICS
+lenovo yoga AD5630         product costs   Rs.50,000
+laptop yoga HJ1080         product costs   Rs.55,000
+laptop think pad NB550R    product costs   Rs.1,20,000
+laptop tink pad M894ZZ     product costs   Rs.1,50,000
+logitec Z90 mouse          product costs   Rs.4,000
+logitec X500 mouse         product costs   Rs.8,000
+logetic MK300 keyboard     product costs   Rs.3,000
+logitec MK201 keyboard     product costs   Rs.5,000
+logitec S550 Speakers      product costs   Rs.2,000
+logitec XMS200 Speakers    product costs   Rs.650
+ACESSORIES
+MEN
+ACESSORIES
+Arabian (hat 1)                    product costs   Rs.20
+American boy (hat 2)               product costs   Rs.15
+Michael jackson (hat 3)            product costs   Rs.40
+puma puma hand (band 1)            product costs   Rs.60
+puma white hand (band 2)           product costs   Rs.65
+puma flags hand (band 3)           product costs   Rs.70
+Addidas white hand (band 4)        product costs   Rs.50
+Addidas sport hand (band 5)        product costs   Rs.55
+Addidas lamda hand (band 6)        product costs   Rs.85
+Reebok sky cooling (glasses 1)     product costs   Rs.100
+Reebok dark cooling (glasses 2)    product costs   Rs.125
+Reebok bright cooling (glasses 3)  product costs   Rs.130
+Addidas K letter (chain 1)         product costs   Rs.200
+Addidas cool (chain 2)             product costs   Rs.250
+Addidas million (chain 3)          product costs   Rs.300
+Reebok zigzak (Shoe 1)        	   product costs   Rs.2,000
+Reebok bottom jelly (Shoe 2)  	   product costs   Rs.1,500
+Reebok dark knight (Shoe 3)    	   product costs   Rs.1,000
+Adiads white knight (Shoe 4)  	   product costs   Rs.2,500
+Adiads simple kinght (Shoe 5) 	   product costs   Rs.3,000
+Adiads fast renner (Shoe 6)   	   product costs   Rs.500
+nike slow walker (Shoe 7)     	   product costs   Rs.750
+nike medium jogger (Shoe 8)   	   product costs   Rs.800
+nike snake (Shoe 9)           	   product costs   Rs.1,200
+Puma cobra (belt 1)           	   product costs   Rs.150
+Reebok lion (belt 2)          	   product costs   Rs.120
+Adidas pegasus (belt 3)       	   product costs   Rs.300
+TOPS
+Reebok hulk (Shirt 1)                    product costs   Rs.1,200
+Reebok tony stark (Shirt 2)              product costs   Rs.1,500
+Reebok batman pull over (Shirt 3)        product costs   Rs.2,500
+Adiads zombheans pull over (Shirt 4)     product costs   Rs.2,000
+Adiads black sewt (Shirt 5)              product costs   Rs.3,000
+Adiads Green Lanturn swet (Shirt 6)      product costs   Rs.3,500
+nike boom (Shirt 7)                      product costs   Rs.1,500
+nike sky high (Shirt 8)                  product costs   Rs.2,000
+nike no smooking!!! (Shirt 9)            product costs   Rs.600
+wranglur back lit (Shirt 10)             product costs   Rs.500
+wranglur frount lit (Shirt 11)           product costs   Rs.1,700
+wranglur drone pull over (Shirt 12)      product costs   Rs.1,500
+wranglur Sri vani pull over (Shirt 13)   product costs   Rs.3,000
+wranglur dance sewt (Shirt 14)           product costs   Rs.2,000
+BOTTOMS
+Reebok short (Shorts 1)         product costs   Rs.600
+Reebok black (Shorts 2)         product costs   Rs.650
+Reebok white (Shorts 3)         product costs   Rs.500
+Adiads sport (Shorts 4)         product costs   Rs.625
+Adiads man (Shorts 5)           product costs   Rs.1,000
+Adiads manned (Shorts 6)        product costs   Rs.1,150
+nike figure (Shorts 7)          product costs   Rs.1,500
+nike intense battle (Shorts 8)  product costs   Rs.350
+nike teaser (Shorts 9)          product costs   Rs.400
+puma panther (pants 1)          product costs   Rs.1,700
+puma strong (pants 2)           product costs   Rs.1,650
+puma black (pants 3)            product costs   Rs.800
+wrangler modern (pants 4)       product costs   Rs.2,000
+wrangler fashion (pants 5)      product costs   Rs.2,500
+wrangler extereme (pants 6)     product costs   Rs.2,750
+nike slick (pants 7)            product costs   Rs.3,000
+nike old (pants 8)              product costs   Rs.3,250
+nike  gold (pants 9)            product costs   Rs.1,000
+WOMEN
+SAREES
+ilkal (saree 1)      product costs   Rs.1,000
+ilkal (saree 2)      product costs   Rs.720
+ilkal (saree 3)      product costs   Rs.2,500
+kanjivaram (saree 4) product costs   Rs.3,000
+kanjivaram (saree 5) product costs   Rs.3,500
+kanjivaram (saree 6) product costs   Rs.4,000
+designer (saree 7)   product costs   Rs.10,000
+designer (saree 8)   product costs   Rs.12,000
+designer (saree 9)   product costs   Rs.6,000
+designer (saree 10)  product costs   Rs.50,000
+cotton (saree 11)    product costs   Rs.1,000
+cotton (saree 12)    product costs   Rs.,1,000
+Synthetic (saree 13) product costs   Rs.300
+Synthetic (saree 14) product costs   Rs.750
+Synthetic (saree 15) product costs   Rs.500
+FUNCTION WARE
+anarkali (dress 1)      				 product costs   Rs.5,000
+anarkali (dress 2)      				 product costs   Rs.8,000
+anarkali (dress 3)       				 product costs   Rs.9,000
+anarkali (dress 4)       				 product costs   Rs.10,000
+kurthi (dress 5)         				 product costs   Rs.2,000
+kurthi (dress 6)         				 product costs   Rs.5,000
+kurthi (dress 7)         				 product costs   Rs.1,500
+kurthi (dress 8)         				 product costs   Rs.8,000
+salwar kameez (dress 9)  				 product costs   Rs.850
+salwar kameez (dress 10) 				 product costs   Rs.650
+salwar kameez (dress 11) 				 product costs   Rs.200
+Pleat Sleeves Leopard Skater (modern 1)               	 product costs   Rs.2,000
+Red Maxi Dress With Twist Detail (modern 2)           	 product costs   Rs.5,000
+Sequin Trim Detail Peplum Dress (modern 3)            	 product costs   Rs.7,000
+Color Cocktail Navy & Lt.Grey Dress (modern 4)        	 product costs   Rs.1,500
+H Straps Conjoined Floral Jumpsuit (modern 5)         	 product costs   Rs.3,000
+Sequined High Low Prom Dress (modern 6)               	 product costs   Rs.4,000
+Charlie Cut-Out Back Detail Midi Dress Red (modern 7) 	 product costs   Rs.2,500
+One-Shoulder Tiger Print Mini Dress In Red (modern 8) 	 product costs   Rs.1000
+Open Back Lace Dress (modern 9)                      	 product costs   Rs.3,500
+Mishka Yellow Dress (modern 10)                      	 product costs   Rs.2,500
+TOPS
+tank (top 1)                  product costs   Rs.60 
+sleevless  (top 2)            product costs   Rs.100
+harp (top 3)                  product costs   Rs.250
+colour flower (top 4)         product costs   Rs.140
+colour cocktail (top 5)       product costs   Rs.300
+peterpan collar (top 6)       product costs   Rs.900
+poly georgette (top 7)        product costs   Rs.50
+Asymmetrical Tye Dye  (top 8) product costs   Rs.75
+Mandarin Collar (top 9)       product costs   Rs.125
+Addidas girls (top 10)        product costs   Rs.175
+BOTTOMS
+harpa bottom (trousers 1)           product costs   Rs.500
+harpa flowers (trousers 2)          product costs   Rs.600
+puma dark grey (trousers 3)         product costs   Rs.1,750
+dream berry (trousers 4)            product costs   Rs.425
+Addidas cotton blue (trousers 5)    product costs   Rs.900
+addidas jet black (trousers 6)      product costs   Rs.650
+Reebok flowers (trousers 7)         product costs   Rs.780
+puma red (trousers 8)               product costs   Rs.920
+Reebok yellow (trousers 9)          product costs   Rs.630
+nike sky blue (trousers 10)         product costs   Rs.450
+eye candy (leggings 1)              product costs   Rs.50
+red candy (leggings 2)              product costs   Rs.80
+black jet tight (leggings 3)        product costs   Rs.150
+women hood (leggings 4)             product costs   Rs.200
+man bender skin (leggings 5)        product costs   Rs.250
+worrior women golden (leggings 6)   product costs   Rs.300
+low risk (leggings 7)               product costs   Rs.100
+white ground pony (leggings 8)      product costs   Rs.600
+blue fashion thicken (leggings 9)   product costs   Rs.420
+Metallic scale vein (leggings 10)   product costs   Rs.230
+happy hour (skirt 1)                product costs   Rs.80
+lime green floral (skirt 2)         product costs   Rs.90
+coral borwn floral (skirt 3)        product costs   Rs.50
+squad grid knitted (skirt 4)        product costs   Rs.150
+new fashion thick fold (skirt 5)    product costs   Rs.200
+white black stripped black (skirt 6)product costs   Rs.250
+Elasticity golden ranger (skirt 7)  product costs   Rs.220
+Luke black (skirt 8)                product costs   Rs.300
+pink godess (skirt 9)               product costs   Rs.150
+wonder women (skirt 10)             product costs   Rs.800
+KITCHEN ELECTRONICS
+Samsung fridge FW800                              product costs   Rs.20,000
+Samsung fridge FW850                              product costs   Rs.25,000
+Samsung fridge FW900                              product costs   Rs.50,000
+LG fridge FWL90                                   product costs   Rs.15,000
+LG fridge FWL83                                   product costs   Rs.10,000
+LG fridge FWL78                                   product costs   Rs.30,000
+Samsung microwave oven MO120H                     product costs   Rs.5,000
+Samsung microwave oven MO150I                     product costs   Rs.7,000
+Samsung microwave oven MO780L                     product costs   Rs.8,000
+LG microwave oven MOL90                           product costs   Rs.4,000
+LG microwave oven MOL750                          product costs   Rs.2,000
+LG microwave oven MOL900                          product costs   Rs.10,000
+Onida microwave oven OMO7                         product costs   Rs.3,000
+Onida microwave oven OMO8                         product costs   Rs.1,500
+Onida microwave oven OMO1                         product costs   Rs.6,000
+prestige Meltallic silver stove PR890             product costs   Rs.2,000
+prestige Meltallic gold stove PR899               product costs   Rs.8,000
+prestige Meltallic user stove PR8959              product costs   Rs.5,000
+prestige glass shot  stove PRGS560                product costs   Rs.7,000
+prestige glass shot stove PRGS920                 product costs   Rs.9,000
+prestige pure glass stove PRGS230                 product costs   Rs.15,000
+prestige induction glass shot stove PRINGS15      product costs   Rs.10,000
+prestige induction pure glass shot stove PRINGS28 product costs   Rs.20,000
+prestige Meltallic induction stove PRINM78        product costs   Rs.6,000
+prestige Meltallic gold induction stove PRIMG90   product costs   Rs.7,000
+prestige uniform induction stove PRUIS888         product costs   Rs.5,000
+prestige fast induction stove PRFIS8954           product costs   Rs.3,000
+KITCHEN UNTENCILS
+prestige electric cooker C290      product costs   Rs.6,000
+prestige electric cooker C890      product costs   Rs.5,000
+prestige induction (cooker 1)      product costs   Rs.3,000
+prestige induction (cooker 2)      product costs   Rs.1,500
+prestige gas (cooker 3)            product costs   Rs.3,000
+prestige gas (cooker 4)            product costs   Rs.4,000
+prestige air frier AIR889FRY       product costs   Rs.25,000
+prestige air frier AIR362FRY       product costs   Rs.27,000
+prestige deep fry (pan 1)          product costs   Rs.500
+prestige deep fry (pan 2)          product costs   Rs.200
+prestige deep fry (pan 3)          product costs   Rs.150
+prestige deep fry (pan 4)          product costs   Rs.115
+prestige roti (pan 5)              product costs   Rs.149
+prestige roti (pan 6)              product costs   Rs.163
+prestige roti (pan 7)              product costs   Rs.1,000
+prestige roti (pan 8)              product costs   Rs.2,500
+prestige roti (pan 9)              product costs   Rs.700
+prestige roti (pan 10)             product costs   Rs.900
+prestige (spoon 1)                 product costs   Rs.10 (per set)
+prestige (spoon 2)                 product costs   Rs.20 (per set)
+prestige (spoon 3)                 product costs   Rs.50 (per set)
+prestige (spoon 4)                 product costs   Rs.80 (per set)
+prestige (spoon 5)                 product costs   Rs.100 (per set)
+prestige (plate 1)                 product costs   Rs.70 (per set)
+prestige (plate 2)                 product costs   Rs.100 (per set)
+prestige (plate 3)                 product costs   Rs.120 (per set)
+prestige (plate 4)                 product costs   Rs.250 (per set)
+prestig (cups 1)                   product costs   Rs.150 (per set)
+prestig (cups 2)                   product costs   Rs.200 (per set)
+prestig (cups 3)                   product costs   Rs.250 (per set)
+prestig (cups 4)                   product costs   Rs.300 (per set)
+drinking (glass 1)                 product costs   Rs.500 (per set)
+drinking (glass 2)                 product costs   Rs.650 (per set)
+drinking (glass 3)                 product costs   Rs.300 (per set)
+BOOKS
+COMEDY
+Good omens (book 1)                          product costs   Rs.1,000
+The Hippopotomas (book 2)                    product costs   Rs.1,000
+scoop (book 3)                               product costs   Rs.1,000
+The dictator (book 4)                        product costs   Rs.1,000
+Akbar and Birbal series (book 5)             product costs   Rs.1,500
+black mischief series (book 6)               product costs   Rs.1,300
+101 pranks series (book 7)                   product costs   Rs.1,700
+500 jokes series (book 8)                    product costs   Rs.2,000
+supandhi (book 9)                            product costs   Rs.2,500
+Adventures of Tenali Raman series (book 10)  product costs   Rs.3,000
+ACTION
+Eragon (book 11)                                   product costs   Rs.650
+Eldest (book 12)                                   product costs   Rs.750
+Brazinger (book 13)                                product costs   Rs.850
+Inheritance (book 14)                              product costs   Rs.1,000
+Hardy boys The Whale Tatoo (book 15)               product costs   Rs.450
+Hardy boys The Secreate of the caves (book 16)     product costs   Rs.450
+Hardy boys The clock tower treasures (book 17)     product costs   Rs.450
+Hardy boys The Secreate of the old mail (book 18)  product costs   Rs.450
+Hardy boys Mystery of the samurai sword (book 19)  product costs   Rs.450
+Sherlock homes adventures (book 20)                product costs   Rs.3,000
+HORROR
+Dracula (book 21)        product costs   Rs.600
+Pet semitary (book 22)   product costs   Rs.890
+I am Legend (book 23)    product costs   Rs.200
+The stand (book 24)      product costs   Rs.150
+Thinner (book 25)        product costs   Rs.620
+Hell House (book 26)     product costs   Rs.1,000
+The talismen (book 27)   product costs   Rs.900
+The terror (book 28)     product costs   Rs.400
+Haunted (book 29)        product costs   Rs.525
+The rising (book 30)     product costs   Rs.255
+FANTACY
+A game of thrones (book 31)      product costs   Rs.900
+The name of the wind (book 32)   product costs   Rs.465
+the encyclopedia (book 33)       product costs   Rs.456
+American gods (book 34)          product costs   Rs.230
+alice in wonderland (book 35)    product costs   Rs.125
+a wizard of earthsea (book 36)   product costs   Rs.487
+the dark is rising (book 37)     product costs   Rs.900
+the worm ouroboros (book 38)     product costs   Rs.200
+vampire academy books (book 39)  product costs   Rs.1,500
+the magicians (book 40)          product costs   Rs.200
+ROMANTIC
+The Truth About Forever (book 41)    product costs   Rs.900
+The Hunger Games (book 42)           product costs   Rs.456
+Perfect Chemistry (book 43)          product costs   Rs.745
+City of Glass (book 44)              product costs   Rs.825
+The Host (book 45)                   product costs   Rs.321
+A Walk to Remember (book 46)         product costs   Rs.654
+Fallen (book 47)                     product costs   Rs.987
+Beautiful Creatures (book 48)        product costs   Rs.789
+Marked (book 49)                     product costs   Rs.456
+Flipped (book 50)                    product costs   Rs.123
+BIOGRAPHY AND AUTOBIOGRAPHY
+The Glass Castle (book 51)                     product costs   Rs.147
+The Night Trilogy (book 52)                    product costs   Rs.258
+Angela's Ashes (book 53)                       product costs   Rs.369
+Into Thin Air (book 54)                        product costs   Rs.741
+The gandhi (book 55)                           product costs   Rs.852
+Swami vivekananda (book 56)                    product costs   Rs.963
+The buddha (book 57)                           product costs   Rs.159
+The tird road (book 58)                        product costs   Rs.753
+King of POP michael jackson (book 59)          product costs   Rs.951
+Worrior of civil war abraham lincoln (book 60) product costs   Rs.357
+MOVIES
+COMEDY
+Scooby doo series (CD 1)                 product costs   Rs.90
+Haunted 2 (CD 2)                         product costs   Rs.75
+american pie series (CD 3)               product costs   Rs.63
+The girl next door (CD 4)                product costs   Rs.54
+dodgeball a true underdog story (CD 5)   product costs   Rs.58
+the big lebowski (CD 6)                  product costs   Rs.89
+the hangover series (CD 7)               product costs   Rs.63
+scary movie series (CD 8)                product costs   Rs.51
+Up (CD 9)                                product costs   Rs.50
+The Ice age series (CD 10)               product costs   Rs.34
+ACTION
+Batman series (CD 11)                product costs   Rs.41
+captain america series (CD 12)       product costs   Rs.47
+die hard series (CD 13)              product costs   Rs.71
+x men series (CD 14)                 product costs   Rs.87
+terminator series(CD 15)             product costs   Rs.74
+the expendables series(CD 16)        product costs   Rs.57
+Now you see me (CD 17)               product costs   Rs.65
+mission impossible series(CD 18)     product costs   Rs.75
+the matrix series(CD 19)             product costs   Rs.65
+Spider man series(CD 20)             product costs   Rs.35
+HORROR
+the exorcist (CD 21)                     product costs   Rs.100
+halloween 1978 (CD 22)                   product costs   Rs.56
+texas chainsaw massacre (CD 23)          product costs   Rs.87
+a nightmare on elm street (1984) (CD 24) product costs   Rs.59
+let the right one in (CD 25)             product costs   Rs.96
+the shining (1980) (CD 26)               product costs   Rs.35
+alien 1979 (CD 27)                       product costs   Rs.64
+paranormal activity (CD 28)              product costs   Rs.52
+the evil dead 1981 (CD 29)               product costs   Rs.21
+insidious (CD 30)                        product costs   Rs.31
+FANTACY
+Harry Potter series (CD 31)                  product costs   Rs.45
+Shoulin socker (CD 32)                       product costs   Rs.69
+The lord of rings series(CD 33)              product costs   Rs.78
+Mallefecent (CD 34)                          product costs   Rs.63
+Oz the great and powerful(CD 35)             product costs   Rs.51
+pirates of the caribbean (CD 36)             product costs   Rs.21
+the chronicles of narnia series(CD 37)       product costs   Rs.46
+the hobbit series(CD 38)                     product costs   Rs.77
+Star wars series(CD 39)                      product costs   Rs.22
+teenage mutant ninja turtles series(CD 40)   product costs   Rs.63
+ROMANTIC
+the notebook (CD 41)          product costs   Rs.78
+Titanic (CD 42)               product costs   Rs.98
+my best friend's girl (CD 43) product costs   Rs.65
+fateh (CD 44)                 product costs   Rs.36
+dear john (CD 45)             product costs   Rs.45
+Ashique 2(CD 46)              product costs   Rs.63
+the last song (CD 47)         product costs   Rs.75
+101 Dolmations (CD 48)        product costs   Rs.53
+as good as it gets (CD 49)    product costs   Rs.45
+the painted veil (CD 50)      product costs   Rs.64
